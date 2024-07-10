@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866853878742",
+    "project_id": "girabola-c75b9",
+    "storage_bucket": "girabola-c75b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866853878742:android:8ac4161d8d49bf13cd0277",
+        "android_client_info": {
+          "package_name": "com.example.amplify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866853878742-2po14a7gojoouc5r9848sa18dduvspc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrnY80rvRZxEam_28G9U5RTSxY1hA9duo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866853878742-2po14a7gojoouc5r9848sa18dduvspc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
